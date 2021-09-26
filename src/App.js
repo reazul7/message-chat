@@ -1,9 +1,11 @@
-import './App.css';
+import "./App.css";
+import ChatBox from "./components/ChatBox/ChatBox";
 
 function App() {
   return (
-    <div>
-    </div>
+    <>
+      <ChatBox />
+    </>
   );
 }
 
