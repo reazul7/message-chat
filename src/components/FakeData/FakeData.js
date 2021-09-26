@@ -1,58 +1,79 @@
 const FakeData = [
     {
         "direction": "left",
-        "text": "text left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
         "timestamp": "1632653385"
     },
     {
         "direction": "left",
-        "text": "text left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
         "timestamp": "1632653385"
     },
     {
          "direction": "right",
-        "text": "text right",
-        "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "text":  "Hi text message received",
+        "senderName": "Reazul Islam Bhuiyan",
+        "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
         "timestamp": "1632653408"
     },
     {
         "direction": "left",
-        "text": "text left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
         "timestamp": "1632653385"
     },
     {
         "direction": "left",
-        "text": "text left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
         "timestamp": "1632653385"
     },
     {
          "direction": "right",
-        "text": "text right",
+        "text":  "Hi text message received",
+        "senderName": "Reazul Islam Bhuiyan",
+        "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+        "timestamp": "1632653408"
+    },
+    {
+        "direction": "left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
         "timestamp": "1632653385"
     },
     {
         "direction": "left",
-        "text": "text left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
         "timestamp": "1632653385"
     },
     {
          "direction": "right",
-        "text": "text right",
+        "text":  "Hi text message received",
+        "senderName": "Reazul Islam Bhuiyan",
+        "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+        "timestamp": "1632653385"
+    },
+    {
+        "direction": "left",
+        "text": "hello text message",
         "senderName": "Reazul Islam",
-        "senderImageUrl": "https://cdn.dribbble.com/users/3734064/screenshots/14413405/media/6744f33319119e4db7637ba5b49e5d78.png?compress=1&resize=400x300",
+        "senderImageUrl": "https://thegda.net/user1.jpg",
+        "timestamp": "1632653385"
+    },
+    {
+         "direction": "right",
+        "text":  "Hi text message received",
+        "senderName": "Reazul Islam Bhuiyan",
+        "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
         "timestamp": "1632653385"
     },
 ]

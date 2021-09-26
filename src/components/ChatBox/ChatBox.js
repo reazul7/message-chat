@@ -11,10 +11,12 @@ const ChatBox = () => {
   console.log(info);
 
   return (
-    <div className="bg-blue-900 h-screen">
-      {info.map((info, index) => {
-        return <ChatCard info={info} />;
-      })}
+    <div className="ChatBox-bg h-full">
+      <div className="container mx-auto pt-5 md:pt-16">
+        {info.map((info, index) => {
+            return <ChatCard info={info} />;
+        })}
+      </div>
     </div>
   );
 };

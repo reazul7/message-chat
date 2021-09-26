@@ -1,4 +1,3 @@
-import moment from 'moment';
 import React from 'react';
 
 const ChatCard = ({info}) => {
@@ -10,18 +9,18 @@ const ChatCard = ({info}) => {
     var formattedTime = hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
 
     return (
-        <div className={info.direction === "left" ? "flex py-3 px-4" : "flex py-3 px-4 justify-end"}>
-            <div className="img px-2">
-                <img className="rounded-full" style={{width: "50px", height: "50px"}} src={info.senderImageUrl} alt="" />
-            </div>
-            <div>
-                <p className="bg-blue-400 rounded font-medium text-white py-1 px-2">{info.text}</p>
-                <div className="flex text-sm">
-                    <p className="text-gray-200">{info.senderName}</p>
-                    <p className="text-gray-400">{formattedTime}</p>
+        <div className={info.direction === "left" ? "flex py-3 px-4" : "flex py-3 px-4  flex-row-reverse"}>
+                <div className="img px-2">
+                    <img className="rounded-full" style={{width: "50px", height: "50px"}} src={info.senderImageUrl} alt="" />
+                </div>
+                <div className="px-2">
+                    <p className={info.direction === "left" ? "text-bg rounded-xl rounded-tl-none" : "text-bg rounded-xl rounded-br-none"}>{info.text}</p>
+                    <div className={info.direction === "left" ? "text-owner" : "text-owner flex-row-reverse"}>
+                        <p className="text-gray-300">{info.senderName}</p>
+                        <p className={info.direction === "left" ? "text-gray-400 ml-auto" : "text-gray-400 mr-auto"}>{formattedTime}</p>
+                    </div>
                 </div>
             </div>
-        </div>
     );
 };
 
