@@ -7,7 +7,7 @@
 </div>
 
 ## Hi there 👋, 
-## I am Reazul Islam Bhuiyan. A MERN Stack Developer & A quick learner. 
+## I am Reazul Islam Bhuiyan. A Front End Developer & A quick learner. 
 ## [See My Resume](https://drive.google.com/file/d/1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t/view?usp=sharing)  || [Download Resume](https://drive.google.com/uc?export=download&id=1LJmqJk2MoqLS6yNC_oBBN5_156Xa2h0t)
 
 
