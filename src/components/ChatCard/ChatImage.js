@@ -1,11 +1,8 @@
-import React from "react";
-
 const ChatImage = ({ info }) => {
   return (
     <div className="img px-2">
       <img
-        className="rounded-full"
-        style={{ width: "50px", height: "50px" }}
+        className="rounded-full w-10 h-10"
         src={info.senderImageUrl}
         alt={info.senderName}
       />
