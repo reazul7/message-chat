@@ -18,7 +18,7 @@ const FakeData = [
         "text":  "Hi text message received",
         "senderName": "Reazul Islam Bhuiyan",
         "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
-        "timestamp": "1632653408"
+        "timestamp": "1632343408"
     },
     {
         "direction": "left",
@@ -39,7 +39,7 @@ const FakeData = [
         "text":  "Hi text message received",
         "senderName": "Reazul Islam Bhuiyan",
         "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
-        "timestamp": "1632653408"
+        "timestamp": "16326564408"
     },
     {
         "direction": "left",
@@ -60,7 +60,7 @@ const FakeData = [
         "text":  "Hi text message received",
         "senderName": "Reazul Islam Bhuiyan",
         "senderImageUrl": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
-        "timestamp": "1632653385"
+        "timestamp": "1632433385"
     },
     {
         "direction": "left",
